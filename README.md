@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LazyDolphin
 - 👀 I’m interested in swimming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, html, javascript, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
